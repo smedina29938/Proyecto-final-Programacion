@@ -1,7 +1,7 @@
 # Proyecto-final-Programacion
 Proyecto Final
 ## Proyecto Realizado por : Sergio Medina y Gabriela Pardo. - Estudiantes de ingenieria en energias de la Universidad Ean. 📚🔩
-Para iniciar queremos dar una breve introducción de lo que se realizó en este proyecto final, se llevó a cabo la creación de un juego de tenis el cual consiste en mover la raquta que se encuentra en la parte inferior de la pantalla con ayuda de las flechas que encontramos en el teclado de los diferentes monitores del que se este ejecutando, por cada vez que la pelota rebote en la barrita sumas 1000 puntos los cuales se estarán sumando en la parte superior, en el momento que no alcances a mover la raqueta a tiempo para que la misma rebote, perderás y te aparecerá cuanto fue tu puntaje durante el tiempo que se estaba ejecutando el juego. 
+Para iniciar queremos dar una breve introducción de lo que se realizó en este proyecto final, se llevó a cabo la creación de un juego de tennis el cual consiste en mover la raquta que se encuentra en la parte inferior de la pantalla con ayuda de las flechas que encontramos en el teclado de los diferentes monitores del que se este ejecutando, por cada vez que la pelota rebote en la barrita sumas 1000 puntos los cuales se estarán sumando en la parte superior, en el momento que no alcances a mover la raqueta a tiempo para que la misma rebote, perderás y te aparecerá cuanto fue tu puntaje durante el tiempo que se estaba ejecutando el juego. 
 ![image](https://user-images.githubusercontent.com/109982313/192075598-fd34943a-4072-4a03-b57a-331dfd48d3e1.png)
 
 ## Herramientas utilizadas 💻:
