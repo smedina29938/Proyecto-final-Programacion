@@ -24,6 +24,7 @@ Proceso de instalación
 
 ## Time
 La biblioteca time contiene una serie de funciones relacionadas con la medicion del tiempo. Esta la aplicamos en el juego principalmente para darle una determinada velocidad a la pelota de tennis para que recorra la ventana
+![image](https://user-images.githubusercontent.com/109982273/192121557-97f14c32-7323-41b4-a93b-3dca00a6ce8f.png)
 ![image](https://user-images.githubusercontent.com/109982273/192121416-f53c6b47-eddd-4e0d-90de-5c404ae1d07f.png)
 
  
